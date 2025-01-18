@@ -1,0 +1,12 @@
+Git Commands-
+
+git status->get any changes we have not yet commited
+git log- get history of last commits
+git checkout-> create and switches to branch specified
+git branch -> get list of branches
+git branch -d "branchname"-> delete the branch
+git add-> add the changes in staging area
+git commit -> commit changes to 
+git merge -> merges the changes to master
+git fetch ->copies changes from remote to local repository not to working directory
+git pull->copies changes from remote repository to local repository and in working directory
