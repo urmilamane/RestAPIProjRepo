@@ -1,0 +1,15 @@
+{
+	"name":"Pragyan",
+	"location":"Sangli",
+	"phone":"897605",
+	"courses":[
+		"C",
+		"C++"
+	]
+}
+
+
+
+token-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
+
+http://api.openweathermap.org/geo/1.0/direct?q=Delhi&limit=7&appid=

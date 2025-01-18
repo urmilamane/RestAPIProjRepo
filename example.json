@@ -1,0 +1,25 @@
+{
+book:{
+ "page": 1,
+ "total_pages": 2,
+ "employee_data": [{
+   "id": 5,
+   "first_name": "Michael",
+   "last_name": "Doe",
+   "designation": "QA",
+   "location": "Remote"
+  },
+  {
+   "id": 6,
+   "first_name": "Johnny",
+   "last_name": "Ford",
+   "designation": "QA",
+   "location": "NY,US"
+  }
+ ],
+ "company": {
+  "name": "QA Inc",
+  "Address": "New Jersey, US"
+ }
+}
+}
