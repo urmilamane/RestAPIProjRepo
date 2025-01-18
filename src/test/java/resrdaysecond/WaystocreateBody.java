@@ -20,7 +20,7 @@ public class WaystocreateBody {
 		HashMap<String, Object> data =new HashMap<String, Object>();
 		data.put("name", "Urmila");
 		data.put("location", "Pune");
-		data.put("phone","234567");
+		data.put("phone","23456789");
 		String courseArr[]= {"C","C++"};
 		data.put("courses",courseArr);
 		
