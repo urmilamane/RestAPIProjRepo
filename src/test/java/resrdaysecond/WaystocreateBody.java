@@ -21,7 +21,7 @@ public class WaystocreateBody {
 		data.put("name", "Urmila");
 		data.put("location", "Pune");
 		data.put("phone","23456789");
-		String courseArr[]= {"C","C++"};
+		String courseArr[]= {"Java","C++"};
 		data.put("courses",courseArr);
 		
 		given()
